@@ -41,16 +41,13 @@ It protects your server with advanced **client-side & server-side detections** a
 
 ---
 
-### 👑 FIREAC Premium  
+👑 FIREAC Premium Released!
 
-🔥 **FIREAC Premium is now available!** 🔥  
-- Includes **all advanced protections** (client + server).  
-- **Fully tested** and guaranteed **bug-free**.  
-- Dedicated support & fast bug fixes.  
-- Designed for serious servers that require **maximum security**.  
+🔥 All advanced protections (client + server)
+⚡ Bug-free & fast support
 
-👉 To purchase **FIREAC Premium**, please join our [Discord](https://discord.gg/uvccDWtqhv) and open a ticket.  
-💳 Payment is available **only via crypto**.  
+👉 1 Month FREE – Download now from our Discord (in 「📢」ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛ chanel):
+https://discord.gg/uvccDWtqhv
 
 ---
 
